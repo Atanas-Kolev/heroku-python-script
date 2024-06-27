@@ -1,4 +1,4 @@
-from os import environ, config
+from os import environ
 import socket
 
 
